@@ -1,4 +1,4 @@
-#I'm Souptik 
+# I'm Souptik 
 
  B.Tech CSE | 5th Semester  
  Passionate about AI/ML, Web Development, and DSA  
